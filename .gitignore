@@ -1,6 +1,7 @@
 node_modules/
 build/
 .env
+dist/
 
 package-lock.json
 # Exclude certain file types from line ending normalization
